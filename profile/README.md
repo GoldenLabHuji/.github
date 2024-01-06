@@ -2,9 +2,9 @@
 This is golden lab huji organization.
 
 Quick review:
-Repository - Single study or analysis.
-Projects - Research projects, usually contains several of repositories.
-Teams - Research teams.
+* Repository - Single study or analysis.
+* Projects - Research projects, usually contains several of repositories.
+* Teams - Research teams.
 <!--
 
 **Here are some ideas to get you started:**
